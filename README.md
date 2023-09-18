@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Ascher1703/Ascher1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">My nickname is Ascher and I'm a College Student from Northwestern Visayan Colleges (NVC)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h3 align="left">✨ Creating bugs since I entered programming world.<br>📚 I'm currently learning to how destroy the World.<br>🎯 Goals: Destroy the World.<br>🎲 Fun fact: I love making bugs.</h3>
+
+###
+
+<h4 align="left">Still exploring... Please wait...</h4>
+
+###
+
+<div align="left">
+</div>
+
+###
