@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My nickname is Ascher and I'm a College Student from Northwestern Visayan Colleges (NVC)</h3>
+<h3 align="left">My nickname is Ascher and I'm a Student from Northwestern Visayan Colleges (NVC)</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since I entered programming world.<br>📚 I'm currently learning to how destroy the World.<br>🎯 Goals: Destroy the World.<br>🎲 Fun fact: I love making bugs.</h3>
+<h3 align="left">✨ Creating bugs since I entered programming world.<br>📚 I'm currently learning in life.<br>🎯 Goals: None.<br>🎲 Fun fact: I love making bugs.</h3>
 
 ###
 
